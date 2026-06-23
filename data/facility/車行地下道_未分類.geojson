@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "BOOLEAN_false",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3826" } },
+"xy_coordinate_resolution": 1e-15,
+"features": [
+{ "type": "Feature", "properties": { "ID": 5.0, "X": 191371.27, "Y": 2596040.68, "位置": "世賢路南段車行地下道", "BOOLEAN": false }, "geometry": { "type": "Point", "coordinates": [ 191371.269999999989523, 2596040.680000000167638 ] } }
+]
+}

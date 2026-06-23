@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "BOOLEAN_true",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3826" } },
+"xy_coordinate_resolution": 1e-15,
+"features": [
+{ "type": "Feature", "properties": { "ID": 1.0, "X": 193774.34, "Y": 2599275.23, "位置": "世賢路北段車行地下道", "BOOLEAN": true }, "geometry": { "type": "Point", "coordinates": [ 193774.34, 2599275.23 ] } },
+{ "type": "Feature", "properties": { "ID": 2.0, "X": 193610.81, "Y": 2598209.94, "位置": "文化路車行地下道", "BOOLEAN": true }, "geometry": { "type": "Point", "coordinates": [ 193610.81, 2598209.94 ] } },
+{ "type": "Feature", "properties": { "ID": 3.0, "X": 193309.65, "Y": 2597803.67, "位置": "林森路車行地下道", "BOOLEAN": true }, "geometry": { "type": "Point", "coordinates": [ 193309.65, 2597803.67 ] } },
+{ "type": "Feature", "properties": { "ID": 4.0, "X": 192076.96, "Y": 2596366.91, "位置": "興業西路車行地下道", "BOOLEAN": true }, "geometry": { "type": "Point", "coordinates": [ 192076.96, 2596366.910000000149012 ] } }
+]
+}

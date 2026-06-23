@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "layer_托嬰中心",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"xy_coordinate_resolution": 1e-15,
+"features": [
+{ "type": "Feature", "properties": { "機構名": "戴德森醫療財團法人職工福利委員會附設嘉義市私 立嘉基托嬰中心", "地址": "嘉義市東區保義路20號", "電話": "05-2773603", "經度": 120.4538902, "緯度": 23.50825238, "layer": "托嬰中心", "path": "Point?crs=EPSG:3824&field=%E6%A9%9F%E6%A7%8B%E5%90%8D:string(254,0)&field=%E5%9C%B0%E5%9D%80:string(254,0)&field=%E9%9B%BB%E8%A9%B1:string(254,0)&field=%E7%B6%93%E5%BA%A6:double(23,15)&field=%E7%B7%AF%E5%BA%A6:double(23,15)&uid={f002d9dd-30e5-4147-9636-4", "BOOLEAN": true }, "geometry": { "type": "Point", "coordinates": [ 120.4538902, 23.50825238 ] } },
+{ "type": "Feature", "properties": { "機構名": "嘉義市私立心寶托嬰中心", "地址": "嘉義市西區大吉街108號1-3樓", "電話": "05-2841486", "經度": 120.4183679, "緯度": 23.46666881, "layer": "托嬰中心", "path": "Point?crs=EPSG:3824&field=%E6%A9%9F%E6%A7%8B%E5%90%8D:string(254,0)&field=%E5%9C%B0%E5%9D%80:string(254,0)&field=%E9%9B%BB%E8%A9%B1:string(254,0)&field=%E7%B6%93%E5%BA%A6:double(23,15)&field=%E7%B7%AF%E5%BA%A6:double(23,15)&uid={f002d9dd-30e5-4147-9636-4", "BOOLEAN": true }, "geometry": { "type": "Point", "coordinates": [ 120.4183679, 23.46666881 ] } },
+{ "type": "Feature", "properties": { "機構名": "嘉義市私立欣寶貝托嬰中 心", "地址": "嘉義市西區中興路188、190號 1~2樓", "電話": "05-2911842", "經度": 120.4348348, "緯度": 23.48270952, "layer": "托嬰中心", "path": "Point?crs=EPSG:3824&field=%E6%A9%9F%E6%A7%8B%E5%90%8D:string(254,0)&field=%E5%9C%B0%E5%9D%80:string(254,0)&field=%E9%9B%BB%E8%A9%B1:string(254,0)&field=%E7%B6%93%E5%BA%A6:double(23,15)&field=%E7%B7%AF%E5%BA%A6:double(23,15)&uid={f002d9dd-30e5-4147-9636-4", "BOOLEAN": true }, "geometry": { "type": "Point", "coordinates": [ 120.4348348, 23.48270952 ] } }
+]
+}

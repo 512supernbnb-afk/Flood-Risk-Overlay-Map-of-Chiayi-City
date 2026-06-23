@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "BOOLEAN_true",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3826" } },
+"xy_coordinate_resolution": 1e-15,
+"features": [
+{ "type": "Feature", "properties": { "橋梁名�": "文化路人行地下道", "y座標": 23.486668, "x座標": 120.447746, "BOOLEAN": true }, "geometry": { "type": "Point", "coordinates": [ 193591.572654889547266, 2598283.30901715811342 ] } },
+{ "type": "Feature", "properties": { "橋梁名�": "平等街人行地下道", "y座標": 23.47362482, "x座標": 120.4361332, "BOOLEAN": true }, "geometry": { "type": "Point", "coordinates": [ 192399.725914162583649, 2596843.467713829129934 ] } }
+]
+}

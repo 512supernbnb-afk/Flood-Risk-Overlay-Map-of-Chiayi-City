@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "BOOLEAN_false",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3826" } },
+"xy_coordinate_resolution": 1e-15,
+"features": [
+{ "type": "Feature", "properties": { "橋梁名�": "北興路人行地下道", "y座標": 23.483283, "x座標": 120.443937, "BOOLEAN": false }, "geometry": { "type": "Point", "coordinates": [ 193201.05485729323118, 2597909.942519924603403 ] } },
+{ "type": "Feature", "properties": { "橋梁名�": "嘉雄陸橋人行地下道", "y座標": 23.47489262, "x座標": 120.4368128, "BOOLEAN": false }, "geometry": { "type": "Point", "coordinates": [ 192469.699882785760565, 2596983.596067888196558 ] } },
+{ "type": "Feature", "properties": { "橋梁名�": "興業西路人行地下道", "y座標": 23.47029152, "x座標": 120.4319118, "BOOLEAN": false }, "geometry": { "type": "Point", "coordinates": [ 191967.032799177599372, 2596476.023844657931477 ] } }
+]
+}

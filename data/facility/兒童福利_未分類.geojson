@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "layer_兒童福利",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"xy_coordinate_resolution": 1e-15,
+"features": [
+{ "type": "Feature", "properties": { "機構名": "嘉義市兒童福利服務中心", "地址": "嘉義市東區興業東路555號", "電話": "(05)2258542", "經度": 120.4606089, "緯度": 23.47061226, "layer": "兒童福利", "path": "Point?crs=EPSG:3826&field=%E6%A9%9F%E6%A7%8B%E5%90%8D%E7%A8%B1:string(254,0)&field=%E9%9B%BB%E8%A9%B1:string(254,0)&field=%E5%9C%B0%E5%9D%80:string(254,0)&field=%E7%B6%93%E5%BA%A6:double(23,15)&field=%E7%B7%AF%E5%BA%A6:double(23,15)&uid={77e31946-eac2-48", "BOOLEAN": false }, "geometry": { "type": "Point", "coordinates": [ 120.460608900264404, 23.470612260142204 ] } }
+]
+}
